@@ -1,5 +1,3 @@
-# Monitoring-Dashboard
-This is an application monitoring Dashboard built using prometheus , Grafana and Loki. 
 # Monitoring with Grafana, Loki and Prometheus
 
 
