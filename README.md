@@ -2,7 +2,6 @@
 This is an application monitoring Dashboard built using prometheus , Grafana and Loki. 
 # Monitoring with Grafana, Loki and Prometheus
 
-Video Tutorial: [https://youtu.be/ddZjhv66o_o](https://youtu.be/ddZjhv66o_o)
 
 ### Prerequisite
 - Basic Knowlege of Node.js and Express Framework
